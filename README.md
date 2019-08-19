@@ -17,6 +17,7 @@ This project refers the official code [link](https://github.com/tengteng95/Pose-
 ## Difference from Official Code
 - Developed based on the pytorch template [link](https://github.com/lulujianjie/pytorch-project-template) 
 - Set hyperparameters using a configuration class
+- Added warmup tricks
 
 ## Results on Market1501 (SSIM)
 | Model | Market1501 |
