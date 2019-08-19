@@ -35,6 +35,9 @@ This project refers the official code [link](https://github.com/tengteng95/Pose-
 3. Install dependencies:
     - [pytorch>=0.4](https://pytorch.org/)
     - torchvision
+    - yacs
+    - skimage
+    - scipy
 
 
 ## Train
