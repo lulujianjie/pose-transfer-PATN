@@ -24,7 +24,7 @@ This project refers the official code [link](https://github.com/tengteng95/Pose-
 | ResNet50 (128x64)| 0.311 |
 
 <div align=center>
-<img src='imgs/results.png' width='800'>
+<img src='imgs/results.jpg' width='800'>
 </div>
 
 ## Get Started
