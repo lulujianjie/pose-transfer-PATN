@@ -14,6 +14,8 @@ This project refers the official code [link](https://github.com/tengteng95/Pose-
 }
 ```
 
+**用我的滴滴云AI大师码0003在滴滴云上购买GPU/vGPU/机器学习产品可享受9折优惠，[点击](https://www.didiyun.com)前往滴滴云官网**
+
 ## Difference from Official Code
 - Developed based on the pytorch template [link](https://github.com/lulujianjie/pytorch-project-template) 
 - Set hyperparameters using a configuration class
